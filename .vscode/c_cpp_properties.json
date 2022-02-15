@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/../TGUI-0.9.3-mingw-7.3.0-64bit-for-SFML-2.5.1/TGUI-0.9/include/**"
+                "${workspaceFolder}/../TGUI-0.9.3-mingw-7.3.0-64bit-for-SFML-2.5.1/TGUI-0.9/include/**",
+                "${workspaceFolder}/../sfml-v2.5.1-mingw/SFML/build/sfml/include/**"
             ],
             "defines": [
                 "_DEBUG",
